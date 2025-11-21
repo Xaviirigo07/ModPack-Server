@@ -1,5 +1,5 @@
 # ModPack-Minecraft-1.21.8-Fabric
-- Este ModPack Tiene un paquete de mods NO de servidor, solo de cliente, así que descargarlo es opcional.
+- Este ModPack Tiene un paquete de mods NO de servidor, solo de cliente, así que descargarlo es opcional
 - El .zip se encuentra en el aparado Tag
 - IP: told-seattle.gl.joinmc.link
 # Instalar-en-CurseForge
