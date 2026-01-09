@@ -1,6 +1,6 @@
 # Introducción (Aprended a leer xfa)
 - Este ModPack Tiene un paquete de mods de cliente, NO de servidor, así que descargarlo es opcional, pero es muy recomendable
-- El .zip se encuentra en el aparado "tag"
+- El .zip se encuentra en el aparado "Tags"
 - IP: told-seattle.gl.joinmc.link
 # Instalar-en-CurseForge
 1. Necesitar descargar el .zip que dice CurseForge, que hay en el repositorio
