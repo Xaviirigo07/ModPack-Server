@@ -8,8 +8,12 @@
 3. Dale a importar perfil .zip y selecciona el .zip
 4. Deja que se acabe de instalar y listo
 
+- Si no tienes instalado el CurseForge aquí te dejo el enlace de descarga (standalone): https://www.curseforge.com/download/app
+
 # Instalar-en-Minecraft-Pirata
 1. Instala la version de minecraft 1.21.8 y de fabric la 0.18.4
 2. Descarga y extrae los archivos del .zip que dice Pirata
 3. Extrae los archivos que hay dentro del .zip y los copias (mods, resourepacks y shaderpacks)
 4. Pulsa WIN + R y pon AppData, luego entra a Roaming y luego a Minecraft y ahí mismo pegas las carpetas anteriormente mencionadas
+
+- Si no tienes el fabric instalado en fabric aquí te dejo el enlace de descarga del instalador: https://fabricmc.net/use/installer/
