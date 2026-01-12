@@ -1,7 +1,7 @@
 # Introducción (Lean bien porfavor)
 - Este ModPack Tiene un paquete de mods de cliente, NO de servidor, así que descargarlo es opcional, pero es muy recomendable
 - El .zip se encuentra en el aparado "Tags"
-- IP: told-seattle.gl.joinmc.link
+- IP: true-dies.gl.joinmc.link
 - En el caso que tengais comprado el minecraft, intentad hacer el tutorial 1, en el caso que no os vaya bien o tengais el minecraft pirata, pasad al tutorial 2
 # 1. Instalar en CurseForge
 1. Necesitar descargar el .zip que dice CurseForge, que hay en el repositorio
